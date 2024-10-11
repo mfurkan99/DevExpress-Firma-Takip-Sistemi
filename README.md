@@ -1,4 +1,4 @@
-# C# Seyehat-Rezervasyon-Sistemi
+# C# DevExpress Firma Takip Sistemi
 Bu proje kapsamında, DevExpress ile bir Firma Takip Sistemi uygulaması yapılmıştır.
 
 # Uygulamanın Amacı
